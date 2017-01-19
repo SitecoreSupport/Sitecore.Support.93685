@@ -1,5 +1,5 @@
 # Sitecore.Support.93685
-Patch replaces the  ?, &amp;, =, %, + symbols with a specific ones, e.g (? - %3f)
+The patch replaces the "?" symbol with the "%3f" in the Layout parameters.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.93685/blob/master/LICENSE).  
